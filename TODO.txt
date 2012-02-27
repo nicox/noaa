@@ -1,0 +1,19 @@
+### 20120206 
+check all scripts, remove usernames/password 
+write mysql-init
+ 
+
+### 20110908
+Funktionalitäten:
+
+
+
+GUI:
+#-)Alle Datenbankfelder im View
+#-)Sucheinschränkung auf nicht erlaubte Geräte
+#-)Ändern der Beschreibung
+#-)Ändern des erlaubt-status (nicht im Gesamt-View)
+-) pear-php html tabellen
+
+
+
