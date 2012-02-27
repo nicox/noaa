@@ -1,0 +1,14 @@
+copy the files into a www-diretory, and configure apache
+
+create a database in your mysql-server and the tables as in 
+
+change settings in config.php
+
+try to run php -f read_macs.php
+report each bug back to me.
+
+add a cron-job which runs more often then every 4 minutes, becuase the standard aging time of the dell switches is 4 minutes.
+
+ 
+
+
